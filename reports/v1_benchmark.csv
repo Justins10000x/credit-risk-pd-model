@@ -1,0 +1,3 @@
+,out_of_time_auc,gini
+our baseline (application data only),0.6608669427284344,0.32173388545686876
+Lending Club sub_grade,0.6786579455534115,0.35731589110682305
